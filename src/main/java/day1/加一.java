@@ -1,5 +1,7 @@
 package day1;
 
+import lombok.Data;
+
 /**
  * @author Liao wenbo
  * @className 加一

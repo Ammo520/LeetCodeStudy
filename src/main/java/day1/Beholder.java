@@ -8,6 +8,7 @@ import java.util.List;
  * @className Beholder
  * @date 2020/6/20
  */
+
 public class Beholder {
     public static void main(String[] args) {
         List<Man> buckets = new ArrayList<>();
